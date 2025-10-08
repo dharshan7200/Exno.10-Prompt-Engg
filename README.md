@@ -1,4 +1,4 @@
-# Exno.9-Prompt-Engg
+# Exno.10-Prompt-Engg
 ## Date :08/10/2025
 ## Register no. 212223230045
 ## Aim: 
